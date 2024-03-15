@@ -1,4 +1,8 @@
-### Hi there 👋
+# About me
+
+I am a Bachelor's student in Computer Engineering at Middle East Technical University (METU), one of the top-ranked universities in Turkey. I have also studied Mathematics at Bilkent University for three years before transferring to METU. 
+
+I am passionate about applying machine learning and web/web3 development skills to solve real-world problems and create innovative solutions. I am eager to join an organization that values collaboration, creativity, and diversity, and where I can grow and develop as a computer engineer.
 
 <!--
 **mehdi-ceng/mehdi-ceng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
