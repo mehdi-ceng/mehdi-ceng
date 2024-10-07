@@ -4,11 +4,8 @@
 
 💻 I'm passionate about understanding how computers and computer systems work together. I'm a big fan of the open-source community and decentralized systems.
 
-🌱 Currently, I'm diving into learning React and Motoko. 
+🌱 Currently, I'm focused on my studies and internship. 
 
-🔭 Additionally, I'm working on my little Tic-Tac-Toe game and experimenting with adding new features.
-
-🎨 I enjoy crafting visually appealing and intuitive user interfaces.
 
 
 
